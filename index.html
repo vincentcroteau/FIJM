@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Archives des concerts</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      margin: 0;
+      background: #fff;
+      color: #222;
+    }
+    header {
+      background-color: #000;
+      color: #fff;
+      padding: 2em;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      font-weight: 500;
+    }
+    .search-container {
+      padding: 2em;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 1em;
+      font-size: 1.1em;
+      margin-bottom: 2em;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    #results {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5em;
+      padding: 2em;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .concert {
+      background: #f8f8f8;
+      padding: 1.5em;
+      border-radius: 6px;
+      border: 1px solid #e0e0e0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5em;
+    }
+    .concert h2 {
+      margin: 0;
+      font-size: 1.25rem;
+      color: #000;
+    }
+    .concert .meta {
+      font-size: 0.95em;
+      color: #333;
+    }
+    .concert em {
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Archives des concerts</h1>
+  </header>
+  <div class="search-container">
+    <input type="text" id="search" placeholder="Rechercher par artiste, lieu ou titre de concert...">
+  </div>
+  <div id="results"></div>
+
+  <script>
+    let concerts = [];
+
+    fetch("concerts.json")
+      .then(response => response.json())
+      .then(data => {
+        concerts = data;
+
+        const results = document.getElementById("results");
+        const search = document.getElementById("search");
+
+        function render(data) {
+          results.innerHTML = "";
+          if (data.length === 0 && search.value.trim() !== "") {
+            results.innerHTML = "<p>Aucun résultat trouvé.</p>";
+            return;
+          }
+          data.forEach(c => {
+            const div = document.createElement("div");
+            div.className = "concert";
+            div.innerHTML = `
+              <h2>${c.concert || ''}</h2>
+              ${(c.sous_titre && c.sous_titre !== 'nan' && c.sous_titre !== '' && c.sous_titre.toLowerCase() !== 'nan') ? `<div class="meta"><em>${c.sous_titre}</em></div>` : ""}
+              ${(c.premiere && c.premiere !== 'nan' && c.premiere !== '' && c.premiere.toLowerCase() !== 'nan') ? `<div class="meta">Première partie: ${c.premiere}</div>` : ""}
+              ${c.date && c.date !== 'nan' ? `<div class="meta">${capitalizeFirst(formatDate(c.date))} à ${c.heure || ''}</div>` : ""}
+              ${c.lieu && c.lieu !== 'nan' ? `<div class="meta">${c.lieu}</div>` : ""}
+              ${c.artistes && c.artistes !== 'nan' ? `<div class="meta">Artistes: ${c.artistes}</div>` : ""}
+            `;
+            results.appendChild(div);
+          });
+        }
+
+        search.addEventListener("input", () => {
+          const term = normalize(search.value.toLowerCase());
+          const filtered = concerts.filter(c =>
+            Object.values(c).some(val => val && normalize(val.toLowerCase()).includes(term))
+          );
+          if (term.trim().length >= 2) render(filtered);
+          else results.innerHTML = '';
+        });
+      });
+
+    function formatDate(dateStr) {
+      const date = new Date(dateStr);
+      if (isNaN(date)) return dateStr;
+      return date.toLocaleDateString("fr-FR", {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric"
+      });
+    }
+
+    function capitalizeFirst(text) {
+      return text.charAt(0).toUpperCase() + text.slice(1);
+    }
+
+    function normalize(str) {
+      return str.normalize("NFD").replace(/[̀-ͯ]/g, "");
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,3170 @@
+[
+  {
+    "concert": "Anomalie Big Band",
+    "sous_titre": "nan",
+    "date": "2023-12-09 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Anomalie",
+    "premiere": "nan"
+  },
+  {
+    "concert": "iskwē",
+    "sous_titre": "nan",
+    "date": "2023-11-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "iskwē",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Bobby Bazini",
+    "sous_titre": "nan",
+    "date": "2023-11-25 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Bobby Bazini, Brad Barr",
+    "premiere": "Brad Barr"
+  },
+  {
+    "concert": "Hania Rani",
+    "sous_titre": "nan",
+    "date": "2023-11-23 00:00:00",
+    "heure": "19:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Hania Rani",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Harry Manx",
+    "sous_titre": "nan",
+    "date": "2023-11-18 00:00:00",
+    "heure": "20:00",
+    "lieu": "Gesù",
+    "artistes": "Harry Manx",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jeremy Dutcher",
+    "sous_titre": "Tournée MOTEWOLONUWOK",
+    "date": "2023-11-09 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Beanfield",
+    "artistes": "Jeremy Dutcher, Sister Ray",
+    "premiere": "Sister Ray"
+  },
+  {
+    "concert": "Laufey",
+    "sous_titre": "nan",
+    "date": "2023-10-28 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Beanfield",
+    "artistes": "Laufey",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Fernie",
+    "sous_titre": "nan",
+    "date": "2023-10-25 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Fernie, jjad",
+    "premiere": "jjad"
+  },
+  {
+    "concert": "Charlie Cunningham",
+    "sous_titre": "nan",
+    "date": "2023-10-21 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Beanfield",
+    "artistes": "Charlie Cunningham",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Christine and the Queens",
+    "sous_titre": "nan",
+    "date": "2023-10-15 00:00:00",
+    "heure": "20:00",
+    "lieu": "MTELUS",
+    "artistes": "Christine and the Queens, Milk & Bone",
+    "premiere": "Milk & Bone"
+  },
+  {
+    "concert": "Django a Gogo",
+    "sous_titre": "nan",
+    "date": "2023-10-11 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Stéphane Wrembel",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Madison McFerrin",
+    "sous_titre": "nan",
+    "date": "2023-10-11 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Belmont",
+    "artistes": "Madison McFerrin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Anoushka Shankar",
+    "sous_titre": "nan",
+    "date": "2023-10-10 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Anoushka Shankar",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Eydís Evensen",
+    "sous_titre": "nan",
+    "date": "2023-10-07 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Eydís Evensen",
+    "premiere": "nan"
+  },
+  {
+    "concert": "David Walters",
+    "sous_titre": "SOUL TROPICAL",
+    "date": "2023-08-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "David Walters",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le jazz est partout - l'exposition",
+    "sous_titre": "nan",
+    "date": "2023-07-12 00:00:00",
+    "heure": "13:00",
+    "lieu": "2e étage de la Maison du Festival",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le jazz est partout - l'exposition",
+    "sous_titre": "nan",
+    "date": "2023-07-12 00:00:00",
+    "heure": "13:00",
+    "lieu": "2e étage de la Maison du Festival",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Christine and the Queens",
+    "sous_titre": "nan",
+    "date": "2023-07-09 00:00:00",
+    "heure": "20:30",
+    "lieu": "MTELUS",
+    "artistes": "Christine and the Queens",
+    "premiere": "Milk & Bone"
+  },
+  {
+    "concert": "Le Balcon x Terrasse avec DJ Cynful",
+    "sous_titre": "nan",
+    "date": "2023-07-09 00:00:00",
+    "heure": "17:00",
+    "lieu": "Le Balcon",
+    "artistes": "DJ Cynful",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Urban Science LeCypherx",
+    "sous_titre": "LeCypher X2",
+    "date": "2023-07-08 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "High Klassified",
+    "sous_titre": "Avec musiciens",
+    "date": "2023-07-08 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "High Klassified, Nathan Dumont, Alexis Gagnon, Paul Charles",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Steve Hill",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Steve Hill",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Braxton Cook",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Braxton Cook, Curtis Nowosad, Andrew Rendroe, Henoc Montes",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Derya Yıldırım & Grup Şimşek",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Derya Yıldırım & Grup Şimşek",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Elise Trouw",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Elise Trouw",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Doxas Brothers",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Chet Doxas, Jim Doxas, Paul Shrofel, Adrian Vedady",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Macy Gray",
+    "sous_titre": "LE GRAND ÉVÉNEMENT DE CLÔTURE TD",
+    "date": "2023-07-08 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Brooks",
+    "sous_titre": "Avec invitées Dominique Fils-Aimé et Hanorah",
+    "date": "2023-07-08 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "The Brooks, Dominique Fils-Aimé, Hanorah",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Trace Bundy",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Trace Bundy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Steve Hill",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Steve Hill",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Best of Soul Motown Jazz, les grands classiques de Stevie Wonder, Whitney Houston,, Frankie Valli et plus avec Leslie Snooksta Alston et MaryDee",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "20:30",
+    "lieu": "Le Balcon",
+    "artistes": "Leslie Snooksta Alston, MaryDee",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Braxton Cook",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Braxton Cook, Curtis Nowosad, Andrew Rendroe, Henoc Montes",
+    "premiere": "nan"
+  },
+  {
+    "concert": "John Pizzarelli",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "John Pizzarelli , Sophianne Girard",
+    "premiere": "Sophianne Girard"
+  },
+  {
+    "concert": "Milk & Bone",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Milk & Bone",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Hanorah",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Hanorah",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jean-Michel Pilc U.S Trio",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Jean-Michel Pilc, Sam Minaie, Jerad Lippi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Say She She",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Say She She",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Trace Bundy",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Trace Bundy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alain Caron",
+    "sous_titre": "À neuf sur scène",
+    "date": "2023-07-08 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Alain Caron, John Roney, François Laliberté, Loik Martin, Rémi Cormier, David Carbonneau, Guillaume Carpentier, Dany Roy, Patrice Luneau",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Crossroad Copeland",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Crossroad Copeland, Ben Gilbert, Jeanne Laforest, Antoine Tardif, Elisabeth Lajoie, Summer Kodama, Olivier Guertin, Édouard Touchette",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Derya Yıldırım & Grup Şimşek",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Derya Yıldırım & Grup Şimşek",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Édelène Fitzgerald",
+    "sous_titre": "Prix Oliver-Jones",
+    "date": "2023-07-08 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Édelène Fitzgerald",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Open Body Live",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Open Body Live",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Elisapie (DJ Set)",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "Elisapie",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le Balcon x Terrasse avec DJ Cynful",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "17:00",
+    "lieu": "Le Balcon",
+    "artistes": "DJ Cynful",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Stage Band du Cégep de Drummondville",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Stage Band du Cégep de Drummondville",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Streetnix",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Streetnix",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Virginia MacDonald",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Virginia MacDonald",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Brunch Gospel avec Imani Gospel Singers",
+    "sous_titre": "nan",
+    "date": "2023-07-08 00:00:00",
+    "heure": "12:30",
+    "lieu": "Le Balcon",
+    "artistes": "Imani Gospel Singers",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Urban Science LeCypherx",
+    "sous_titre": "LeCypher X Growve",
+    "date": "2023-07-07 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "Urban Science, LeCypherx",
+    "premiere": "nan"
+  },
+  {
+    "concert": "FELP",
+    "sous_titre": "Avec Klô Pelgag, Laurence-Anne, Hubert Lenoir et Greg Beaudin",
+    "date": "2023-07-07 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "FELP, Klô Pelgag, Laurence-Anne, Hubert Lenoir , Greg Beaudin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Stephen Barry Band",
+    "sous_titre": "Avec invité spécial Michael Jerome Browne",
+    "date": "2023-07-07 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Stephen Barry Band, Michael Jerome Browne",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lambert",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Lambert",
+    "premiere": "nan"
+  },
+  {
+    "concert": "FAIZA",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "FAIZA",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Michaël Brun",
+    "sous_titre": "Présente BAYO",
+    "date": "2023-07-07 00:00:00",
+    "heure": "22:00",
+    "lieu": "MTELUS",
+    "artistes": "Michaël Brun",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sarah Kang",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Sarah Kang",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sungazer",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Sungazer",
+    "premiere": "nan"
+  },
+  {
+    "concert": "BADBADNOTGOOD",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Badbadnotgood",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Dayna Stephens Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Dayna Stephens",
+    "premiere": "nan"
+  },
+  {
+    "concert": "François Bourassa Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "François Bourassa, André Leroux, Guy Boisvert, Guillaume Pilote",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Stephen Barry Band",
+    "sous_titre": "Avec invité spécial Michael Jerome Browne",
+    "date": "2023-07-07 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Stephen Barry Band, Michael Jerome Browne",
+    "premiere": "nan"
+  },
+  {
+    "concert": "TEKE::TEKE",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "TEKE::TEKE , Ghost Funk Orchestra",
+    "premiere": "Ghost Funk Orchestra"
+  },
+  {
+    "concert": "Les meilleurs hits Soul Motown Disco & Pop avec Freddie James Project",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "20:30",
+    "lieu": "Le Balcon",
+    "artistes": "Freddie James",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Flor de Toloache",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Flor de Toloache",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sungazer",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Sungazer",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Robert Plant & Alison Krauss",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Robert Plant & Alison Krauss, JD McPherson",
+    "premiere": "JD McPherson"
+  },
+  {
+    "concert": "Dayna Stephens Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Dayna Stephens",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jean-Michel Pilc U.S Trio",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Jean-Michel Pilc, Sam Minaie, Jerad Lippi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Malia Laura",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Malia Laura",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Matthew Whitaker",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Matthew Whitaker",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Joseph Sarenhes",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Joseph Sarenhes",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mali Obomsawin",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Mali Obomsawin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Maneige",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Maneige",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Open Body Live",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Open Body Live",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Ostara Project",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "The Ostara Project",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DJ Set de L'équipe de programmation du FIJM",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "L'équipe de programmation du FIJM",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kate Wyatt Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Kate Wyatt Quartet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le Balcon x Terrasse avec DJ Cynful",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "17:00",
+    "lieu": "Le Balcon",
+    "artistes": "DJ Cynful",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Streetnix",
+    "sous_titre": "nan",
+    "date": "2023-07-07 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Streetnix",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Unity Jazz Band",
+    "sous_titre": "Ensemble communautaire",
+    "date": "2023-07-07 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Unity Jazz Band",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Urban Science LeCypherx",
+    "sous_titre": "LeCypher X2",
+    "date": "2023-07-06 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "Urban Science, LeCypherx",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lulu Hughes",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Lulu Hughes",
+    "premiere": "nan"
+  },
+  {
+    "concert": "SLM",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "SLM, Hans Mudingila, Nathan Kamba, Jeremy Victor, Shemar Gordon, Nakishah Reed (KidCrayola), Nicolas Akilimali, Mickael Tshilombo",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Colin Stetson",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Colin Stetson",
+    "premiere": "nan"
+  },
+  {
+    "concert": "AySay",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "AySay",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Isaiah Collier & The Chosen Few",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Isaiah Collier & The Chosen Few",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kassa Overall",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Kassa Overall",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Caity Gyorgy & Jocelyn Gould Quintet",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Caity Gyorgy, Jocelyn Gould",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ron Di Lauro Sextet joue \\\"Kind of Blue\\\"",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Ron Di Lauro, Jean-Pierre Zanella , André White, André Leroux, Geoff Lapp, Michel Donato",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Tank and the Bangas",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Tank and the Bangas, Tarriona Ball, Joshua Johnson, Norman Spence, Robert Kellner, Jonathan Johnson, Etienne Stoufflet, Mark-Anthony Thomas",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lulu Hughes",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Lulu Hughes",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Budos Band",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "The Budos Band",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Chucho Valdés",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Chucho Valdés",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Emilie-Claire Barlow",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "20:00",
+    "lieu": "Monument-National",
+    "artistes": "Emilie-Claire Barlow, Reg Swchager, Joh Maharaj, Fabio Ragnelli, Kelly Jefferson , Amanda Tosoff",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Isaiah Collier & The Chosen Few",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Isaiah Collier & The Chosen Few",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lengaïa Salsa Brava",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Lengaïa Salsa Brava",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Obongjayar",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Obongjayar",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Caity Gyorgy & Jocelyn Gould Quintet",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Caity Gyorgy, Jocelyn Gould",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mitch Davis",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Mitch Davis",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nick Hakim",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Nick Hakim",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ron Di Lauro Sextet joue \\\"Kind of Blue\\\"",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Ron Di Lauro, Jean-Pierre Zanella , André White, André Leroux, Geoff Lapp, Michel Donato",
+    "premiere": "nan"
+  },
+  {
+    "concert": "AySay",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "AySay",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Harry Manx",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Harry Manx",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jan Verstraeten",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Jan Verstraeten, Stefaan De Rycke, Laurens Van Bouwelen, Jente Neels",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Les Jeudis Latin Groove",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Balcon",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Open Body Live",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Open Body Live",
+    "premiere": "nan"
+  },
+  {
+    "concert": "RJ LeBlanc",
+    "sous_titre": "HEYDAY avec invitée spéciale Erika Angell",
+    "date": "2023-07-06 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "RJ LeBlanc, Erika Angell",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Carl Mayotte",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Carl Mayotte, Gabriel Cyr, Damien-Jade Cyr, Francis Grégoire, Stéphane Chamberland",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Félix Petit",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "Félix Petit",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Stephanie Tremblay Quintet",
+    "sous_titre": "Université Concordia",
+    "date": "2023-07-06 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Stephanie Tremblay Quintet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Streetnix",
+    "sous_titre": "nan",
+    "date": "2023-07-06 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Streetnix",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Shed",
+    "sous_titre": "Avec invité spécial Casey Benjamin",
+    "date": "2023-07-05 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "The Shed, Casey Benjamin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Genevieve Artadi",
+    "sous_titre": "avec Louis Cole et Chiquita Magic",
+    "date": "2023-07-05 00:00:00",
+    "heure": "23:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Genevieve Artadi, Louis Cole , Chiquita Magic",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mike Goudreau Band",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Mike Goudreau, Jean-François Bégin, Norman Lachapelle, Dany Roy, Maxime St-Pierre, Serge Arsenault, Nino Fabi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Pierre Kwenders",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Pierre Kwenders",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Clerel",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Clerel",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jupiter & Okwess",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Jupiter & Okwess, Jupiter Bokondji Ilola, Yende Balamba Bongongo, Montana KINUNU NTUNU, Eric Malu- Malu Muginda, Richard Kabanga Kasonga",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kiefer",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Kiefer, CARRTOONS , Luke Sangerman",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Christine Jensen Quartet",
+    "sous_titre": "Lancement d'album « Day Moon »",
+    "date": "2023-07-05 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Christine Jensen",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Olivier Salazar présente RAZALAZ",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Olivier Salazar, Andy King, Alex Francoeur, Émile Farley, Alexis Gagnon, François Jalbert",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Thundercat",
+    "sous_titre": "Le Grand Événement TD",
+    "date": "2023-07-05 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Thundercat",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DakhaBrakha",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "DakhaBrakha",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mike Goudreau Band",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Mike Goudreau, Jean-François Bégin, Norman Lachapelle, Dany Roy, Maxime St-Pierre, Serge Arsenault, Nino Fabi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Annahstasia",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Annahstasia",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kiefer",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Kiefer, CARRTOONS , Luke Sangerman",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Marisa Monte",
+    "sous_titre": "Tournée Portas",
+    "date": "2023-07-05 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Marisa Monte",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Une soirée avec Diana Krall",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Diana Krall",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Christine Jensen Quartet",
+    "sous_titre": "Lancement d'album « Day Moon »",
+    "date": "2023-07-05 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Christine Jensen",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Olivier Salazar présente RAZALAZ",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Olivier Salazar, Andy King, Alex Francoeur, Émile Farley, Alexis Gagnon, François Jalbert",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ping Pong Go",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Ping Pong Go",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Son Little",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Son Little",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Curtis Nowosad Trio",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Curtis Nowosad Trio, Andrew Rendroe, Matt Dwonszyk",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jupiter & Okwess",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Jupiter & Okwess, Jupiter Bokondji Ilola, Yende Balamba Bongongo, Montana KINUNU NTUNU, Eric Malu- Malu Muginda, Richard Kabanga Kasonga",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nonso Amadi",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Nonso Amadi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Olivia Belli",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Olivia Belli",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Open Body Live",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Open Body Live",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DJ Set d'Anomalie",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "Anomalie",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Reflet",
+    "sous_titre": "UQAM",
+    "date": "2023-07-05 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Heavyweights Brass Band",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "The Heavyweights Brass Band, Lowell Whitty, John Pittman, Paul Metcalfe, RJ Satchithananthan, Nolan Murphy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Plastic Waste Band",
+    "sous_titre": "nan",
+    "date": "2023-07-05 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "The Plastic Waste Band, John Buck, Ethan Cohn, Claire Devlin, Chris Edmondson, Jean-Michel Leblanc, David Lemyre",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Shed",
+    "sous_titre": "Avec invité spécial Casey Benjamin",
+    "date": "2023-07-04 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "The Shed, Casey Benjamin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Debby Friday",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Debby Friday",
+    "premiere": "nan"
+  },
+  {
+    "concert": "JW-Jones",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "JW-Jones",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ondara",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Ondara",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Bïa & Maracujá",
+    "sous_titre": "Gilberto",
+    "date": "2023-07-04 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Bïa, Maracujà",
+    "premiere": "nan"
+  },
+  {
+    "concert": "CARRTOONS & Friends",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "CARRTOONS",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nduduzo Makhathini",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Nduduzo Makhathini, Zwelakhe-Duma Bell le Pere, Francisco Mela",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alex Bellegarde Trio",
+    "sous_titre": "+ Invité suivi du jam session",
+    "date": "2023-07-04 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Alex Bellegarde, Éric St-Jean, Martin Auguste",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DOMi & JD Beck",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "DOMi & JD BECK",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Johnny O'Neal Trio",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Johnny O'Neal",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Black Midi",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "Black Midi , Joseph Shabason",
+    "premiere": "Joseph Shabason"
+  },
+  {
+    "concert": "JW-Jones",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "JW-Jones",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Orville Peck",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "20:30",
+    "lieu": "MTELUS",
+    "artistes": "Orville Peck, Jeremie Albino",
+    "premiere": "Jeremie Albino"
+  },
+  {
+    "concert": "Marisa Monte",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Marisa Monte",
+    "premiere": "Rommel"
+  },
+  {
+    "concert": "Mezerg",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Mezerg",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nduduzo Makhathini",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Nduduzo Makhathini, Zwelakhe-Duma Bell le Pere, Francisco Mela",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Bad Plus",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "20:00",
+    "lieu": "Monument-National",
+    "artistes": "The Bad Plus",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Une soirée avec Diana Krall",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Diana Krall",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Joe Grass",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Joe Grass",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Joe Sullivan Big Band",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Joe Sullivan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Johnny O'Neal Trio",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Johnny O'Neal",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Weather Station",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "The Weather Station",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mary Ancheta Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Mary Ancheta Quartet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nate Smith",
+    "sous_titre": "Avec invités spéciaux Cory Wong et Victor Wooten",
+    "date": "2023-07-04 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Nate Smith, Cory Wong , Victor Wooten",
+    "premiere": "nan"
+  },
+  {
+    "concert": "OKAN",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "OKAN, Elizabeth Herrera Rodriguez, Jeremy Ledbetter, Frank Martinez Nodarse, Roberto Riveron, Magdelys Savigne Carrion",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Open Body Live",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Open Body Live",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Rafael Zaldivar Trio",
+    "sous_titre": "Avec invité spécial Luis Deniz",
+    "date": "2023-07-04 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Rafael Zaldivar Trio, Luis Deniz",
+    "premiere": "nan"
+  },
+  {
+    "concert": "EP Quintet",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "EP Quintet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lydia Paradis Quartet",
+    "sous_titre": "Université Laval",
+    "date": "2023-07-04 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Lydia Paradis Quartet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Heavyweights Brass Band",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "The Heavyweights Brass Band, Lowell Whitty, John Pittman, Paul Metcalfe, RJ Satchithananthan, Nolan Murphy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Young Jesus & Félix Noé (Moonshine) listening session",
+    "sous_titre": "nan",
+    "date": "2023-07-04 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "Moonshine , Félix Noé, Hervé Kalongo",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Shed",
+    "sous_titre": "Avec invité spécial Casey Benjamin",
+    "date": "2023-07-03 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "The Shed, Casey Benjamin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Aiza",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Aiza",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jesse Mac Cormack & Friends",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Jesse Mac Cormack",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lloyd Spiegel",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Lloyd Spiegel, Lisa Blair",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Emmet Cohen Trio",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Emmet Cohen, Kyle Poole, Philip Norris",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Endea Owens & The Cookout",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Endea Owens & The Cookout, Endea Owens, Lee Pearson, Louis Fouché, Kris Johnson, Shenel Johns, Corey Bernhard",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ko Shin Moon",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Ko Shin Moon",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alex Bellegarde Latin Jazz Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Alex Bellegarde, Michel Cantero, Nestor Rodriguez, Diomer Gonzales",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jean-Michel Blais",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Jean-Michel Blais",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sheila Jordan",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Sheila Jordan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ghostly Kisses",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "Ghostly Kisses, Sasha Cay",
+    "premiere": "Sasha Cay"
+  },
+  {
+    "concert": "Lloyd Spiegel",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Lloyd Spiegel, Lisa Blair",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Endea Owens & The Cookout",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Endea Owens & The Cookout, Endea Owens, Lee Pearson, Louis Fouché, Kris Johnson, Shenel Johns, Corey Bernhard",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Flore Laurentienne",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Flore Laurentienne",
+    "premiere": "nan"
+  },
+  {
+    "concert": "SYML",
+    "sous_titre": "Avec invitée spéciale Jill Barber",
+    "date": "2023-07-03 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "SYML, Jill Barber",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Herbie Hancock",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Herbie Hancock, DOMi & JD BECK",
+    "premiere": "DOMi & JD Beck"
+  },
+  {
+    "concert": "Gabrielle Shonk",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Gabrielle Shonk",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Melody Gardot",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "19:00",
+    "lieu": "Maison symphonique de Montréal",
+    "artistes": "Melody Gardot, Laura Anglade, Sam Kirmayer",
+    "premiere": "Laura Anglade & Sam Kirmayer"
+  },
+  {
+    "concert": "Roni Kaspi",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Roni Kaspi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sheila Jordan",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Sheila Jordan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "SuperNova",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Félix Stüssi, Jean Derome, Normand Guilbeault, Pierre Tanguay",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Gentiane MG",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Gentiane MG",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mwenso & The Shakes",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Mwenso and The Shakes , Ahmad Johnson, Chris Smith, Xander Naylor, Aris Dolce Jr., Rashaan Salaam, Netanya Thompson, Vuyo Sotashe, Michael Mwenso",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nate Smith",
+    "sous_titre": "Avec invités spéciaux Kiefer et CARRTOONS",
+    "date": "2023-07-03 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Nate Smith, Kiefer, CARRTOONS",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nora Toutain",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Nora Toutain, Frank O'Sullivan , Émile Farley, Thomas Sauvé-Lafrance, David Osei",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Uplift514 Block Party",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Uplift514 Block Party",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DJ Set de TEKE::TEKE",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "TEKE::TEKE , Serge Nakauchi Pelletier, Maya Kuroki",
+    "premiere": "nan"
+  },
+  {
+    "concert": "L'abîme",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "L'abîme",
+    "premiere": "nan"
+  },
+  {
+    "concert": "McGill Jazz Orchestra 1",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "McGill Jazz Orchestra",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Heavyweights Brass Band",
+    "sous_titre": "nan",
+    "date": "2023-07-03 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "The Heavyweights Brass Band, Lowell Whitty, John Pittman, Paul Metcalfe, RJ Satchithananthan, Nolan Murphy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Laylit",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "Laylit",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Blackburn",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Blackburn, Duane Blackburn, Brooke Blackburn, Cory Blackburn, Andrew Stewart, Neil Brathwaite, Ted Peters",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Elliot Maginot",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Elliot Maginot",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Gretchen Parlato & Lionel Loueke",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Gretchen Parlato, Lionel Loueke",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Blue Moon Marquee",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Blue Moon Marquee",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Brandee Younger",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Brandee Younger, Rashaan Carter , Allan Mednard",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Pedrito Martínez Group",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "The Pedrito Martínez Group, Keisel Jimenez, Sebastian Natal, Isaac Delgado, Xito Lovell",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Al McLean Quintet",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Al McLean, Eric Hove, André White, Ira Coleman, Al Bourgeois",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Benny Benack III",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Benny Benack III",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Vance Joy",
+    "sous_titre": "Événement Spécial Rio Tinto",
+    "date": "2023-07-02 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Vance Joy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Blackburn",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Blackburn, Duane Blackburn, Brooke Blackburn, Cory Blackburn, Andrew Stewart, Neil Brathwaite, Ted Peters",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Thylacine",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "20:30",
+    "lieu": "MTELUS",
+    "artistes": "Thylacine",
+    "premiere": "Fakear"
+  },
+  {
+    "concert": "Anouar Brahem Quartet",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Anouar Brahem Quartet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mereba",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Mereba",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Samara Joy",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "20:00",
+    "lieu": "Monument-National",
+    "artistes": "Samara Joy, Evan Sherman, Felix Moseholm, Luther Allison",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Pedrito Martínez Group",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "The Pedrito Martínez Group, Keisel Jimenez, Sebastian Natal, Isaac Delgado, Xito Lovell",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Melody Gardot",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Melody Gardot, Mathew V",
+    "premiere": "Mathew V"
+  },
+  {
+    "concert": "Benny Benack III",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Benny Benack III",
+    "premiere": "nan"
+  },
+  {
+    "concert": "JaRon Marshall",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "JaRon Marshall",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kim Richardson Quintet",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Kim Richardson, John Sadowy, Dave Watts, Jim Hillman",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mopao Mumu",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Mopao Mumu",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Blue Moon Marquee",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Blue Moon Marquee",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Naïssam Jalal",
+    "sous_titre": "Quest of the Invisible",
+    "date": "2023-07-02 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Naïssam Jalal",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nate Smith",
+    "sous_titre": "Avec invités spéciaux Michael League et Lionel Loueke",
+    "date": "2023-07-02 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Nate Smith, Michael League, Lionel Loueke",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Altons",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "The Altons",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Uplift514 Block Party",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Uplift514 Block Party",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DJ Set de Gabrielle Shonk",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "Gabrielle Shonk",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Efajemue",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Efajemue",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le Balcon x Terrasse avec DJ Cynful",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "17:00",
+    "lieu": "Le Balcon",
+    "artistes": "DJ Cynful",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le carnaval brésilien avec le Bloco de Montréal",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Le Bloco de Montréal",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le Tonique Big Band",
+    "sous_titre": "Ensemble communautaire",
+    "date": "2023-07-02 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Le Tonique Big Band",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Tim Brady | Instruments of Happiness - 100 guitares électriques",
+    "sous_titre": "nan",
+    "date": "2023-07-02 00:00:00",
+    "heure": "14:00",
+    "lieu": "La Grande-Place du complexe Desjardins",
+    "artistes": "Tim Brady",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Andy S + Uproot Andy + Invités",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "Andy S, Uproot Andy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Dawn Tyler Watson",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Dawn Tyler Watson, Ben Racine Band, John Sadowy, Francois Dube, Kaven Jalbert, Samuel Harrisson, Nicolas Boulay",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Urban Science Brass Band",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Urban Science Brass Band",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Moon Hooch",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Moon Hooch",
+    "premiere": "nan"
+  },
+  {
+    "concert": "ADG7",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "ADG7, Kim Yak Dae, Lee Man Wol, Choi Byung Hwal, Chun Gung Dal, Sunwoo Barabarabarabam, Hong Ok, Yu Jin, Yoo Wol , Woen Meondongmaru",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Julius Rodriguez",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Julius Rodriguez",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Theon Cross",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Theon Cross",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alvin Queen Trio ft. Tadataka Unno & Danton Boller",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Alvin Queen, Tadataka Unno, Danton Boller",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DJ Premier & The Badder Band",
+    "sous_titre": "50ième Anniversaire du Hip-Hop",
+    "date": "2023-07-01 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "DJ Premier, The Badder Band, Brady Watt, Carlos Homs, Greyson Nekrutman, Mark Williams, Igmar Thomas",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Farley présente \\\"Clocks\\\"",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Émile Farley, Frank O'Sullivan , Thomas Sauvé-Lafrance, HAWA B",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mino Cinelu avec Paul Brochu & Dan Thouin",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Mino Cinelu, Paul Brochu, Dan Thouin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Dawn Tyler Watson",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Dawn Tyler Watson, Ben Racine Band, John Sadowy, Francois Dube, Kaven Jalbert, Samuel Harrisson, Nicolas Boulay",
+    "premiere": "nan"
+  },
+  {
+    "concert": "November Ultra",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "November Ultra, Afternoon Bike Ride",
+    "premiere": "Afternoon Bike Ride"
+  },
+  {
+    "concert": "CKay + Moonshine",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "20:30",
+    "lieu": "MTELUS",
+    "artistes": "CKay, Moonshine",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Soirée Soul Motown Disco avec Michelle Sweeney",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "20:30",
+    "lieu": "Le Balcon",
+    "artistes": "Michelle Sweeney",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Anomalie Big Band",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Anomalie, Nicolas Dupuis, Alexis Elina, Gabriel Lamarre-Charette, Ronny Désinor, Dominique Léveillé, Andy King, Maxime Saint-Pierre, Karine Gordon, Alex Desjardins, Olivier Lizotte, Louis Plouffe, Valérie Lachance-Guillemette, Alexandre Colas-Jeffery, Philippe Brochu-Pelletier, Patrice Luneau, Édouard Touchette",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Julius Rodriguez",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Julius Rodriguez",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Stacey Kent Trio",
+    "sous_titre": "Songs From Other Places",
+    "date": "2023-07-01 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Stacey Kent, Jim Tomlinson, Art Hirahara",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Rodrigo y Gabriela",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Rodrigo y Gabriela",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alvin Queen Trio ft. Tadataka Unno & Danton Boller",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Alvin Queen, Tadataka Unno, Danton Boller",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Chris Botti",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:00",
+    "lieu": "Maison symphonique de Montréal",
+    "artistes": "Chris Botti",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Farley présente \\\"Clocks\\\"",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Émile Farley, Frank O'Sullivan , Thomas Sauvé-Lafrance, HAWA B",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Lengaïa Salsa Brava",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Lengaïa Salsa Brava",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mino Cinelu avec Paul Brochu & Dan Thouin",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Mino Cinelu, Paul Brochu, Dan Thouin",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Altons",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "The Altons",
+    "premiere": "nan"
+  },
+  {
+    "concert": "ADG7",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "ADG7, Kim Yak Dae, Lee Man Wol, Choi Byung Hwal, Chun Gung Dal, Sunwoo Barabarabarabam, Hong Ok, Yu Jin, Yoo Wol , Woen Meondongmaru",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Normand Guilbeault Sextet",
+    "sous_titre": "Hommage à Mingus",
+    "date": "2023-07-01 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Normand Guilbeault, Jean Derome, Ivanhoe Jolicoeur, Mathieu Bélanger, Claude Lavergne, Alexandre Grogg",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Roni Kaspi",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Roni Kaspi, Rashaan Carter , Allan Mednard",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Snarky Puppy présente Brock, League, Sparks & Thomas",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Snarky Puppy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Uplift514 Block Party",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Uplift514 Block Party",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Big Band Montcalm",
+    "sous_titre": "École secondaire Mitchell-Montcalm",
+    "date": "2023-07-01 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Big Band Montcalm",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le Balcon x Terrasse avec DJ Cynful",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "17:00",
+    "lieu": "Le Balcon",
+    "artistes": "DJ Cynful",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le carnaval brésilien avec le Bloco de Montréal",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Le Bloco de Montréal",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Trio Bruxo",
+    "sous_titre": "nan",
+    "date": "2023-07-01 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Trio Bruxo, David Ryshpan, Nicolas Bédard, Mark Nelson",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Liquor Store",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "The Liquor Store",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alias",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Alias, Emmanuel Alias, Jean-Baptiste Beltra, Vincent Benezet, Simon Bilodeau",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kenny \\\"Blues Boss\\\" Wayne",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Kenny 'Blues Boss' Wayne",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mark Guiliana",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "22:30",
+    "lieu": "Gesù",
+    "artistes": "Mark Guiliana",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Etran de L'Aïr",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Etran de L'Aïr",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Hailu Mergia",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Hailu Mergia",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sam Gendel",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Sam Gendel",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Walter Smith III & Matthew Stevens",
+    "sous_titre": "In Common avec Reuben Rogers et Kendrick Scott",
+    "date": "2023-06-30 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Walter Smith III, Matthew Stevens, Kendrick Scott, Reuben Rogers",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Alex LeBlanc Ensemble",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Alex LeBlanc, Patrice Luneau, Michael Johancsik, Marcus Lowry , Guillaume Pilote",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Cimafunk",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Cimafunk",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ranee Lee",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Ranee Lee",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kenny \\\"Blues Boss\\\" Wayne",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Kenny 'Blues Boss' Wayne",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Vieux Farka Touré",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "Vieux Farka Touré",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Back to the 80s, le meilleur des années 80 avec NEON",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "20:30",
+    "lieu": "Le Balcon",
+    "artistes": "NEON",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Snarky Puppy",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "20:30",
+    "lieu": "MTELUS",
+    "artistes": "Snarky Puppy",
+    "premiere": "Yessaï Karapetian"
+  },
+  {
+    "concert": "Avishai Cohen Trio",
+    "sous_titre": "Shifting Sands",
+    "date": "2023-06-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Avishai Cohen",
+    "premiere": "nan"
+  },
+  {
+    "concert": "John Scofield",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Monument-National",
+    "artistes": "John Scofield",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Valaire",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Valaire",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Walter Smith III & Matthew Stevens",
+    "sous_titre": "In Common avec Reuben Rogers et Kendrick Scott",
+    "date": "2023-06-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Walter Smith III, Matthew Stevens, Kendrick Scott, Reuben Rogers",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Buddy Guy",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Buddy Guy, Christone Kingfish Ingram",
+    "premiere": "Christone ''Kingfish'' Ingram"
+  },
+  {
+    "concert": "Orchestre National de Jazz de Montréal invite Miranda Joan",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Orchestre National de Jazz de Montréal, Miranda Joan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ranee Lee",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Ranee Lee",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Tina Leon",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Tina Leon",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Yannick Rieu Génération Quartet",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Yannick Rieu, Jonathan Cayer, Louis-Vincent Hamel",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Billie Marten",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Billie Marten",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Etran de L'Aïr",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Etran de L'Aïr",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Hailu Mergia",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Hailu Mergia",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Melissa Pipe Sextet",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Melissa Pipe Sextet",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Stanley Péan",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Stanley Péan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Tiny Habits",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Gesù",
+    "artistes": "Tiny Habits",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Uplift514 Block Party",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Uplift514 Block Party",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Brekky Boy",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Brekky Boy",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Burning BRASs Band",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Burning BRASs Band, Maryka Talbot, Marie Gervais, Émilie Fortin, Élisabeth Provencher, Florence Beauquier Léger, Élisabeth Lajoie, Stéphanie Sens, Chloé Taschuk, Marie-Ange Boislard, Rebecca Legault, Marie-Anne Tessier",
+    "premiere": "nan"
+  },
+  {
+    "concert": "DJ Set d'Alexandre Courteau",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "17:00",
+    "lieu": "Club Montréal TD",
+    "artistes": "Alexandre Courteau",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Le Balcon x Terrasse avec DJ Cynful",
+    "sous_titre": "nan",
+    "date": "2023-06-30 00:00:00",
+    "heure": "17:00",
+    "lieu": "Le Balcon",
+    "artistes": "DJ Cynful",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Musique-études Jazz-Pop",
+    "sous_titre": "École secondaire André-Laurendeau",
+    "date": "2023-06-30 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Musique-études Jazz-Pop",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Liquor Store",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "23:59",
+    "lieu": "M2",
+    "artistes": "The Liquor Store",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Christone “Kingfish” Ingram",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "23:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Christone Kingfish Ingram",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Jonah Yano",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "23:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "Jonah Yano",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Djely Tapa",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "22:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Djely Tapa",
+    "premiere": "nan"
+  },
+  {
+    "concert": "James Francies",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "22:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "James Francies",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Misc",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "22:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Misc",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ibrahim Maalouf",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "21:30",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Ibrahim Maalouf",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mike Rud & Houston Person Quartet",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "21:30",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Mike Rud, Houston Person",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Nic Boulay Quintet joue Kenny Dorham",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "21:30",
+    "lieu": "Dièse Onze",
+    "artistes": "Nicolas Boulay, Benjamin Deschamps, Charles Trudel, Sébastien Pellerin, Al Bourgeois",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Christone “Kingfish” Ingram",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "21:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Christone Kingfish Ingram",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Hermanos Gutiérrez",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "21:00",
+    "lieu": "Club Soda",
+    "artistes": "Hermanos Gutiérrez",
+    "premiere": "nan"
+  },
+  {
+    "concert": "The Franklin Electric",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "20:30",
+    "lieu": "MTELUS",
+    "artistes": "The Franklin Electric, Billie Marten",
+    "premiere": "Billie Marten"
+  },
+  {
+    "concert": "Hiromi: The Piano Quintet Feat. PUBLIQuartet",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Hiromi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "James Francies",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "20:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "James Francies",
+    "premiere": "nan"
+  },
+  {
+    "concert": "KOKOROKO",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "20:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "KOKOROKO",
+    "premiere": "nan"
+  },
+  {
+    "concert": "George Benson",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:30",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "George Benson, Melissa Errico, Randy Waldman, Chris Walker, Mark Simmons",
+    "premiere": "Melissa Errico"
+  },
+  {
+    "concert": "Arooj Aftab, Vijay Iyer, Shahzad Ismaily",
+    "sous_titre": "Love In Exile",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:00",
+    "lieu": "Monument-National",
+    "artistes": "Arooj Aftab, Vijay Iyer, Shahzad Ismaily",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Danielle Ponder",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:00",
+    "lieu": "Scène Rogers",
+    "artistes": "Danielle Ponder",
+    "premiere": "nan"
+  },
+  {
+    "concert": "HAWA B",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:00",
+    "lieu": "Club Montréal TD – Esplanade de la Place des Arts",
+    "artistes": "HAWA B",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Marianne Trudel Trio",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:00",
+    "lieu": "Dièse Onze",
+    "artistes": "Marianne Trudel, Normand Guilbeault, Pierre Tanguay",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Mike Rud & Houston Person Quartet",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:00",
+    "lieu": "Upstairs Jazz Bar & Grill",
+    "artistes": "Mike Rud, Houston Person",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Natalia Lafourcade",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "19:00",
+    "lieu": "Maison symphonique de Montréal",
+    "artistes": "Natalia Lafourcade",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Hermanos Gutiérrez",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "18:00",
+    "lieu": "Club Soda",
+    "artistes": "Hermanos Gutiérrez",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Les Jeudis Latin Groove",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Balcon",
+    "artistes": "nan",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Razalaz",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène Loto-Québec",
+    "artistes": "Razalaz",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Rémi Bolduc Jazz Ensemble",
+    "sous_titre": "Les esprits oubliés - Avec invité spécial Jerry Bergonzi",
+    "date": "2023-06-29 00:00:00",
+    "heure": "18:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Rémi Bolduc Jazz Ensemble, Jerry Bergonzi",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Rémi Cormier",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "18:00",
+    "lieu": "Scène TD – Place des festivals",
+    "artistes": "Rémi Cormier, Elli Miller-Maboungou, Abdel Grooz, Dave Francois, Ronny Désinor, Jules Payette, Théo Abellard",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Uplift514 Block Party",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "18:00",
+    "lieu": "Esplanade de la Place des Arts",
+    "artistes": "Uplift514 Block Party",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Burning BRASs Band",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "17:00",
+    "lieu": "Spectacles déambulatoires",
+    "artistes": "Burning BRASs Band, Maryka Talbot, Marie Gervais, Émilie Fortin, Élisabeth Provencher, Florence Beauquier Léger, Élisabeth Lajoie, Stéphanie Sens, Chloé Taschuk, Marie-Ange Boislard, Rebecca Legault, Marie-Anne Tessier",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Combo I : Université de Montréal",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "17:00",
+    "lieu": "Scène Rio Tinto",
+    "artistes": "Hélène Martel",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Léon Phal",
+    "sous_titre": "nan",
+    "date": "2023-06-29 00:00:00",
+    "heure": "17:00",
+    "lieu": "Pub la Traversée Molson Export",
+    "artistes": "Léon Phal, Zacharie Ksyk, Gaulthier Toux, Rémi Bouyssière, Arthur Alard",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Brad Mehldau Trio",
+    "sous_titre": "nan",
+    "date": "2023-06-28 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Brad Mehldau Trio",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Natalia Lafourcade",
+    "sous_titre": "nan",
+    "date": "2023-06-28 00:00:00",
+    "heure": "19:00",
+    "lieu": "Maison symphonique de Montréal",
+    "artistes": "Natalia Lafourcade",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Tamino",
+    "sous_titre": "nan",
+    "date": "2023-05-19 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Corona",
+    "artistes": "Tamino, Sister Ray",
+    "premiere": "Sister Ray"
+  },
+  {
+    "concert": "Anne Bisson Trio",
+    "sous_titre": "Be My Lover",
+    "date": "2023-05-17 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Anne Bisson",
+    "premiere": "nan"
+  },
+  {
+    "concert": "George Thorogood and The Destroyers",
+    "sous_titre": "nan",
+    "date": "2023-05-14 00:00:00",
+    "heure": "20:00",
+    "lieu": "MTELUS",
+    "artistes": "George Thorogood and the Destroyers",
+    "premiere": "Nick Schnebelen"
+  },
+  {
+    "concert": "Lee Fields",
+    "sous_titre": "nan",
+    "date": "2023-05-13 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Corona",
+    "artistes": "Lee Fields",
+    "premiere": "nan"
+  },
+  {
+    "concert": "GoGo Penguin",
+    "sous_titre": "nan",
+    "date": "2023-05-11 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Corona",
+    "artistes": "GoGo Penguin, Melanie Charles",
+    "premiere": "Melanie Charles"
+  },
+  {
+    "concert": "Sofiane Pamart",
+    "sous_titre": "nan",
+    "date": "2023-04-29 00:00:00",
+    "heure": "20:00",
+    "lieu": "Église Saint-Jean-Baptiste",
+    "artistes": "Sofiane Pamart",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Sofiane Pamart",
+    "sous_titre": "nan",
+    "date": "2023-04-29 00:00:00",
+    "heure": "16:00",
+    "lieu": "Église Saint-Jean-Baptiste",
+    "artistes": "Sofiane Pamart",
+    "premiere": "nan"
+  },
+  {
+    "concert": "KOKOKO!",
+    "sous_titre": "nan",
+    "date": "2023-04-24 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Belmont",
+    "artistes": "KOKOKO!",
+    "premiere": "San Farafina"
+  },
+  {
+    "concert": "Nils Frahm",
+    "sous_titre": "nan",
+    "date": "2023-04-19 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Maisonneuve, Place des Arts",
+    "artistes": "Nils Frahm",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Kanen",
+    "sous_titre": "nan",
+    "date": "2023-04-06 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Kanen",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Ezra Collective",
+    "sous_titre": "nan",
+    "date": "2023-04-05 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Ezra Collective",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Matt Holubowski",
+    "sous_titre": "nan",
+    "date": "2023-03-30 00:00:00",
+    "heure": "20:00",
+    "lieu": "Cabaret Lion d'Or",
+    "artistes": "Matt Holubowski",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Dylan Sinclair",
+    "sous_titre": "nan",
+    "date": "2023-03-23 00:00:00",
+    "heure": "20:00",
+    "lieu": "Théâtre Fairmount",
+    "artistes": "Dylan Sinclair",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Tina Leon",
+    "sous_titre": "nan",
+    "date": "2023-03-22 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "Tina Leon",
+    "premiere": "nan"
+  },
+  {
+    "concert": "Adi Oasis",
+    "sous_titre": "nan",
+    "date": "2023-03-16 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Belmont",
+    "artistes": "Adi Oasis",
+    "premiere": "Täbï Yösha"
+  },
+  {
+    "concert": "Magi Merlin",
+    "sous_titre": "nan",
+    "date": "2023-02-09 00:00:00",
+    "heure": "20:00",
+    "lieu": "Le Studio TD – Maison du festival",
+    "artistes": "nan",
+    "premiere": "nan"
+  }
+]
