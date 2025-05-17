@@ -31,7 +31,7 @@
     }
     input[type='text'], select {
       width: 100%;
-      padding: 1em;
+      padding: 1em 3em 1em 1em;
       font-size: 1.1em;
       margin-bottom: 2em;
       border: 1px solid #ccc;
@@ -42,14 +42,17 @@
     }
     .clear-button {
       position: absolute;
-      right: 1.5em;
-      top: 1.1em;
+      top: calc(2em + 1.3em);
+      right: 2em;
+      transform: translateY(-50%);
       background: none;
       border: none;
-      font-size: 1.2em;
+      font-size: 1.5em;
       cursor: pointer;
-      color: #999;
+      color: #666;
       display: none;
+      padding: 0;
+      line-height: 1;
     }
     #results {
       display: grid;
@@ -130,7 +133,7 @@
               <h2>${c.Concert || ""}</h2>
               ${c["Sous-titre"] ? `<div class="meta"><em>${c["Sous-titre"]}</em></div>` : ""}
               ${c["Première partie"] ? `<div class="meta">Première partie: ${c["Première partie"]}</div>` : ""}
-              ${c.Date ? `<div class="meta">${formatDate(c.Date)} à ${c.Heure || ""}</div>` : ""}
+              ${c.Date ? `<div class="meta">${capitalizeFirst(formatDate(c.Date))} à ${c.Heure || ""}</div>` : ""}
               ${c.Lieu ? `<div class="meta">${c.Lieu}</div>` : ""}
               ${c.Artistes ? `<div class="meta">Artistes: ${c.Artistes}</div>` : ""}
             `;
@@ -178,6 +181,10 @@
 
     function normalize(str) {
       return str.normalize("NFD").replace(/[̀-ͯ]/g, "");
+    }
+
+    function capitalizeFirst(str) {
+      return str.charAt(0).toUpperCase() + str.slice(1);
     }
   </script>
 </body>
