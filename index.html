@@ -29,7 +29,7 @@
       margin: 0 auto;
       position: relative;
     }
-    input[type='text'], select {
+    input[type='text'], select, datalist {
       width: 100%;
       padding: 1em;
       font-size: 1.1em;
@@ -42,14 +42,17 @@
     }
     .clear-button {
       position: absolute;
+      top: 1.15em;
       right: 1.5em;
-      top: 1.1em;
+      transform: translateY(-50%);
       background: none;
       border: none;
-      font-size: 1.2em;
+      font-size: 1.8em;
       cursor: pointer;
       color: #999;
       display: none;
+      line-height: 1;
+      padding: 0;
     }
     #results {
       display: grid;
@@ -88,7 +91,8 @@
     <h1>Archives des concerts</h1>
   </header>
   <div class="search-container">
-    <input type="text" id="search" placeholder="Rechercher par artiste, lieu ou titre de concert..." />
+    <input type="text" id="search" list="suggestions" placeholder="Rechercher par artiste, lieu ou titre de concert..." />
+    <datalist id="suggestions"></datalist>
     <button class="clear-button" id="clearSearch" title="Effacer">×</button>
     <select id="yearFilter">
       <option value="">Toutes les années</option>
@@ -108,6 +112,7 @@
         const search = document.getElementById("search");
         const yearFilter = document.getElementById("yearFilter");
         const clearSearch = document.getElementById("clearSearch");
+        const datalist = document.getElementById("suggestions");
 
         const annees = [...new Set(concerts.map(c => c.Année))].sort((a, b) => b - a);
         annees.forEach(annee => {
@@ -115,6 +120,18 @@
           option.value = annee;
           option.textContent = annee;
           yearFilter.appendChild(option);
+        });
+
+        const suggestions = new Set();
+        concerts.forEach(c => {
+          if (c.Concert) suggestions.add(c.Concert);
+          if (c.Artistes) suggestions.add(c.Artistes);
+          if (c.Lieu) suggestions.add(c.Lieu);
+        });
+        Array.from(suggestions).sort().forEach(value => {
+          const opt = document.createElement("option");
+          opt.value = value;
+          datalist.appendChild(opt);
         });
 
         function render(data) {
